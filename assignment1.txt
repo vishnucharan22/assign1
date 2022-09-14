@@ -1,0 +1,22 @@
+1. A computer does not understand anything, not even strings of 1s and 0s, what we’d call binary. It is an electronic machine, it understands voltage and current differences.A computer is made out of switches and wires, mainly. The switches are transistors, which can be switched on or off by changing the voltage difference across them. A binary value loaded into a CPU register represents which transistors have high and which have low voltages across them, and this corresponds to the activation or deactivation of various circuit pathways inside the CPU, which calculate or manipulate some data, again represented as a presence or absence of current or charge in a circuit.
+
+
+2.  IDE stands for Integrated Development Environment
+
+3.  Text editor is used to edit text files as the name suggest, Example of a text editor is notepad.Code editor on the other hand is specifically meant to edit code. They provide you with various features like auto indent, bracket matching, different colors for variables, key words, comments, pre-processor directives, strings, etc.Code editors are mostly integrated with the IDE (Integrated Development Environment). 
+
+4. Analyze the problem. The programer must figure out the problem, then decide how to resolve the problem - choose a program.
+Design the program. ...
+Code the program. ...
+Debug the program. ...
+Formalize the solution. ...
+Document and maintain the program.
+
+5
+a.C17 is the informal name for ISO/IEC 9899:2018, the most recent standard for the C programming language, prepared in 2017 and published in June 2018. It replaced C11 (standard ISO/IEC 9899:2011). C17 will be superseded by C2x.
+
+b.Dennis Ritchie
+
+c. The system software is used for operating computer hardware. 
+
+d.Take decimal number as dividend. Divide this number by 2 (2 is base of binary so divisor here). Store the remainder in an array (it will be either 0 or 1 because of divisor 2). Repeat the above two steps until the number is greater than zero.
